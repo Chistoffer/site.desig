@@ -1,0 +1,84 @@
+.bg{
+    width: 1800px;
+    float: left;
+    margin-top: -800px;
+    margin-left: 0px;
+    position: relative;
+}
+
+.imgmulher{
+    width: 855px;
+    float: left;
+    margin-top: -1500px;
+    margin-left: 630px;
+    position: relative;
+}
+
+.imglogo{
+    width: 400px;
+    float: left;
+    margin-top: -1560px;
+    margin-left: 340px;
+    position: relative;
+
+}
+
+.imgtx{
+    width: 300px;
+    float: left;
+    margin-top: -1280px;
+    margin-left: 380px;
+    position: relative;
+}
+
+.imgsorriso{
+    width: 300px;
+    float: left;
+    margin-top: -650px;
+    margin-left: 380px;
+    position: relative;
+}
+
+.imgtexto{
+    width: 500px;
+    float: left;
+    margin-top: -450px;
+    margin-left: 280px;
+    position: relative;
+}
+
+.imgtxplano{
+    width: 300px;
+    float: left;
+    margin-top: -280px;
+    margin-left: 280px;
+    position: relative;
+}
+.h1{
+    font-size: 150%;
+    color: wheat;
+    float: left;
+    margin-top: -315px;
+    margin-left: 280px;
+    position: relative; 
+}
+
+.imgplano2{
+    width: 300px;
+    float: left;
+    margin-top: -700px;
+    margin-left: 1050px;
+    position: relative;
+}
+
+button{
+    background: rgba(6, 136, 243, 0.603);
+    font-size: 120%;
+    color: antiquewhite;
+    border-radius: 30%;
+    width: 200px;
+    float: left;
+    margin-top: -330px;
+    margin-left: 1090px;
+    position: relative;
+}
